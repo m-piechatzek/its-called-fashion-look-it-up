@@ -1,0 +1,19 @@
+{
+  "name": "its-called-fashion-look-it-up",
+  "version": "1.0.0",
+  "description": "fancy app where you upload photos of clothes you want an opinion onand ppls tell you if its ugly er nawt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-piechatzek/its-called-fashion-look-it-up.git"
+  },
+  "author": "monsta_p",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-piechatzek/its-called-fashion-look-it-up/issues"
+  },
+  "homepage": "https://github.com/m-piechatzek/its-called-fashion-look-it-up#readme"
+}
