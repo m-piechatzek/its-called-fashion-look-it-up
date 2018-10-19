@@ -4,7 +4,9 @@
   "description": "fancy app where you upload photos of clothes you want an opinion onand ppls tell you if its ugly er nawt",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --mode development --watch",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
