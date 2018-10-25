@@ -1,0 +1,2 @@
+export const FETCH_GENERAL = 'FETCH_GENERAL'
+export const RECEIVE_GENERAL = 'RECEIVE_GENERAL'
